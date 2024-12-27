@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR And Barcode Scanner</string>
+    <string name="portraitText">Portrait</string>
+    <string name="landscapeText">Landscape</string>
+</resources>
